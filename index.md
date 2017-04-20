@@ -56,8 +56,6 @@ data the minimum of the two data sets?
   data and how it will be used in analysis. 
 ---
 
-# Data Readiness Levels
-
 Imagine when you are talking about data, you can qualify its
 readiness. Imagine that you can with the use of language get an
 immediate sense of what investment is required to extract the value
@@ -74,5 +72,4 @@ be. Data readiness levels are a set of set of terms used to characterize the
 readiness of data for deployment.
 
 
-## FAQ
 
