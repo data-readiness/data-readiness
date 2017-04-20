@@ -12,6 +12,7 @@ Band B is about the validity of the data. Checking the faithfulness and represen
 * Missing values.
 * entity disambiguation, record linkage, duplicate detection
 * anomaly detection
+* sanity checks on the use of physical units (if used)
 
 ## Examples
 
