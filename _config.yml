@@ -12,6 +12,7 @@ disqus:
   shortname: data-readiness
 github:
   edit: true
+  repository: dalimeeting.github.io
 
 permalink: "/:categories/:title.html"
 
