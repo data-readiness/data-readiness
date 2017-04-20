@@ -4,9 +4,9 @@ layout: page
 
 {{ content | markdownify }}
 
-## FAQ
+<h2>FAQ</h2>
 
 {% for q in page.faq %}
-<p><b>Q:</b>&nbsp; {{ q.Q | markdownify }}</p>
-<p><b>A:</b>&nbsp; {{ q.A | markdownify }}</p>
+<p><b>Q:</b> {{ q.Q | markdownify }}</p>
+<p><b>A:</b> {{ q.A | markdownify }}</p>
 {% endfor %}
