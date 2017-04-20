@@ -7,6 +7,6 @@ layout: page
 <h2>FAQ</h2>
 
 {% for q in page.faq %}
-{{ q.Q | prepend: "**Q:**" | markdownify }}
-{{ q.A | prepend: "**A:**" | markdownify }}
+{{ q.Q | prepend: "**Q:** " | markdownify }}
+{{ q.A | prepend: "**A:** " | markdownify }}
 {% endfor %}
