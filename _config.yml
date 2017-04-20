@@ -16,6 +16,12 @@ github:
 
 permalink: "/:categories/:title.html"
 
+defaults:
+    scope:
+      type: pages
+    values:
+      permalink: /:path/:basename:output_ext
+      
 analytics:
   google:
     tracking_id: 
