@@ -8,6 +8,6 @@ layout: page
 
 ## FAQ
 
-{% for faq in page.faq }}<p><b>Q:</b>&nbsp; {{ faq.Q | markdownify }}</p>
+{% for faq in page.faq %}<p><b>Q:</b>&nbsp; {{ faq.Q | markdownify }}</p>
 <p><b>A:</b>&nbsp; {{ faq.A | markdownify }}</p>
 {% endfor %}
