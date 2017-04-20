@@ -70,5 +70,5 @@ resources need to be deployed, what time lines and costs are likely to
 be. Data readiness levels are a set of set of terms used to characterize the
 readiness of data for deployment.
 
-
+You can read more in [this blog post](http://inverseprobability.com/2017/01/12/data-readiness-levels).
 
