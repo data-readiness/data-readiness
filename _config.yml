@@ -1,26 +1,15 @@
 # Site settings
-title: "Neil Lawrence's Talks"
+title: "Data Readiness Levels"
 email: N.Lawrence@sheffield.ac.uk
-description: talks given by Neil Lawrence
-baseurl: "/talks" # the subpath of your site, e.g. /blog/
-exclude:
-  - slides/reveal.js/plugin/markdown/example
-reveal:
-  width: 512
-  height: 384
-youtube:
-  width: 512
-  height: 384
-talk_files: "http://inverseprobability.com/talks/slides/"
-nbviewer: "http://nbviewer.ipython.org/"
-basenb: "github/lawrennd/talks/blob/master/slides/" 
-url: "http://inverseprobability.com" # the base hostname & protocol for your site
+description: Site for developing consensus on the use of common sub bands for describing data readiness.
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://data-readiness.org" # the base hostname & protocol for your site
 twitter_username: lawrennd
-github_username:  lawrennd
+github_username:  data-readiness
 
 comments: true
 disqus:
-  shortname: inverseprobabilitycom
+  shortname: data-readiness
 github:
   edit: true
 
@@ -28,7 +17,7 @@ permalink: "/:categories/:title.html"
 
 analytics:
   google:
-    tracking_id: UA-62968536-1
+    tracking_id: 
 
 # Build settings
 markdown: kramdown
