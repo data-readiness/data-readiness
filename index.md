@@ -55,13 +55,12 @@ data the minimum of the two data sets?"
   data and how it will be used in analysis. "
 ---
 
-Imagine when you are talking about data, you can qualify its
-readiness. Imagine that you can with the use of language get an
+In the data sciences, data quality is a prerequisite for success. So the fact that we don't have a common language for describing the status of our data is a severe constraint. Imagine if, when you are talking about data, you can qualify its
+readiness. Imagine that you can use a few terms to develop an
 immediate sense of what investment is required to extract the value
 from the data.
 
-A major challenge in the data sciences is trying to assess investment
-required to bring a data set on board. Data readiness levels start
+Data Readiness Levels start
 with the concept of *hearsay data*, data which someone heard is
 available, so they say it is. This is where many projects start. They
 then provide a scale of readiness which is designed to assist decision
@@ -69,6 +68,8 @@ makers and practitioners in assessing the project status, which
 resources need to be deployed, what time lines and costs are likely to
 be. Data readiness levels are a set of set of terms used to characterize the
 readiness of data for deployment.
+
+Data Readiness levels allow managers and decision makers to understand project status, and where investment is needed without intimate familiarity with the data itself.
 
 You can read more in [this blog post](http://inverseprobability.com/2017/01/12/data-readiness-levels).
 
