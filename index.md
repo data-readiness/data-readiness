@@ -29,7 +29,7 @@ data the minimum of the two data sets?"
   why we cannot bring the data together. The DRL of two combined data
   sets would be at *most* the minimum of the two DRLs, but could well
   be lower. Even two data sets at A1, when combined, could require
-  record deduplication, which immediately sends the back to Band B. Of
+  record deduplication, which immediately sends the data back to Band B. Of
   course such combined data would likely be quicker to pull through
   the readiness levels than raw data which hadn't been looked at
   before. I.e. record deduplication may be the only task required to
@@ -50,7 +50,7 @@ data the minimum of the two data sets?"
 - Q: Why is this the right time for this new idea?
   A: "We are trying to reflect the new reality that much data (indeed the
   majority) is now collected by happenstance, and this data needs very different treatment from data
-  that is actively acquired. Both those who are acquiring the data need to be cognisant of
+  that is actively acquired. Those who are acquiring the data need to be cognisant of
   the challenges, as well as those who are making decisions about the
   data and how it will be used in analysis. "
 ---
