@@ -5,7 +5,7 @@ layout: band
 
 ## What is Band A about?
 
-Band A is about data in context. Mordern data science is unusual in that data
+Band A is about data in context. Modern data science is unusual in that data
 is being collected, often without a question in mind. This is a change
 from classical statistics and science, where data is normally
 collected to answer a particular question. 
@@ -16,7 +16,7 @@ argue that the traditional statistical pipeline contained only Band A.
 ## The Sense of Band A
 
 * In statistics it roughly maps to confirmatory data analysis
-* In Band A we consider appropriateness of a given data set to answer a particular
+* In Band A we consider the appropriateness of a given data set to answer a particular
 question, or to be subject to a particular analysis.
 
 Often in Band A we might find our existing data (although it might be
@@ -29,4 +29,4 @@ the full process again.
 
 Whereas Band B might involve characterising the missing values, Band A could involve modelling them. 
 
-At the end of Band A the data set is ready for RAMP, Kaggle, etc
+At the end of Band A the data set is ready for RAMP, Kaggle, OpenML, etc
