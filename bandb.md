@@ -9,7 +9,7 @@ Band B is about the validity of the data. Checking the faithfulness and represen
 
 * visualisations.
 * noise characterisation.
-* Missing values.
+* missing values.
 * entity disambiguation, record linkage, duplicate detection
 * anomaly detection
 * sanity checks on the use of physical units (if used)
@@ -20,4 +20,4 @@ Band B is about the validity of the data. Checking the faithfulness and represen
 * Was a [gene name accidentally converted to a date](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-80)?
 
 
-At the end of Band B, ready to define a candidate question, the context.
+At the end of Band B, we are ready to define a candidate question, the context.
