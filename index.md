@@ -71,5 +71,5 @@ readiness of data for deployment.
 
 Data Readiness levels allow managers and decision makers to understand project status, and where investment is needed without intimate familiarity with the data itself.
 
-You can read more in [this blog post](http://inverseprobability.com/2017/01/12/data-readiness-levels).
+You can read more in [this blog post](http://inverseprobability.com/2017/01/12/data-readiness-levels) and [this arxiv paper](https://arxiv.org/abs/1705.02245).
 
