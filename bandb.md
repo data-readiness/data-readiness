@@ -7,7 +7,7 @@ Band B is about the validity of the data. Checking the faithfulness and represen
 
 ## What does it include?
 
-* visualisations.
+* visualisations for exploratory analysis e.g. PCA and Hierarchical Clustering
 * noise characterisation.
 * missing values.
 * entity disambiguation, record linkage, duplicate detection
