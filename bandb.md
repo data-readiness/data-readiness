@@ -13,6 +13,7 @@ Band B is about the validity of the data. Checking the faithfulness and represen
 * entity disambiguation, record linkage, duplicate detection
 * anomaly detection
 * sanity checks on the use of physical units (if used)
+* data representation (vectorizing, word embeddings etc)? Or does this come in Band A. 
 
 ## Examples
 
