@@ -4,8 +4,8 @@ title: About
 weight: 1
 faq:
 - Q: What are the bands of data readiness?
-  A: "For the moment we have described three bands of data readiness, within
-  each band, there will be sub bands, and one role of this site is to
+  A: "For the moment we have described three bands of data readiness. Within
+  each band there will be sub bands. One role of this site is to
   achieve consensus on what those sub-bands (and bands) should represent
   so that data readiness levels can be deployed across a wide range of
   applications."
@@ -26,7 +26,7 @@ faq:
 - Q: "What if we combine data sets? Is the data readiness of the combined
 data the minimum of the two data sets?"
   A:  "No, because there may be ethical, legal or topological reasons
-  why we cannot bring the data together. The DRL of two combined data
+  why we cannot bring the data together. The Data Readiness Level (DRL) of two combined data
   sets would be at *most* the minimum of the two DRLs, but could well
   be lower. Even two data sets at A1, when combined, could require
   record deduplication, which immediately sends the data back to Band B. Of
@@ -40,12 +40,12 @@ data the minimum of the two data sets?"
   and also in the sciences it is frowned upon to collect data on
   'fishing expeditions'. However, in practice, scientific questions
   are refined as more data is collected. And there is now good
-  precedent for large scale screens of e.g. transcriptome analysis,
-  during development or disease, where the context is very broad."
+  precedent for large scale screens (e.g. transcriptome analysis
+  during development or disease) where the context is very broad."
 - Q: Are you related to the NSI Nanotechnology discussion?
   A: "No, we conceived of data readiness levels separately, but after
-  that discussion. Looking at that document, we feel the scope is too
-  narrow for wide usage, the aim in this effort is to ensure that we
+  that discussion, and looking at that document, we feel the scope is too
+  narrow for wide usage. The aim in this effort is to ensure that we
   gain a much broader consensus across data sciences."
 - Q: Why is this the right time for this new idea?
   A: "We are trying to reflect the new reality that much data (indeed the
@@ -66,7 +66,7 @@ available, so they say it is. This is where many projects start. They
 then provide a scale of readiness which is designed to assist decision
 makers and practitioners in assessing the project status, which
 resources need to be deployed, what time lines and costs are likely to
-be. Data readiness levels are a set of set of terms used to characterize the
+be. Data readiness levels are a set of terms used to characterize the
 readiness of data for deployment.
 
 Data Readiness levels allow managers and decision makers to understand project status, and where investment is needed without intimate familiarity with the data itself.
