@@ -8,12 +8,12 @@ Band B is about the validity of the data. Checking the faithfulness and represen
 ## What does it include?
 
 * visualisations for exploratory analysis e.g. PCA and Hierarchical Clustering
-* noise characterisation.
-* missing values.
+* noise characterisation
+* missing values
 * entity disambiguation, record linkage, duplicate detection
 * anomaly detection
 * sanity checks on the use of physical units (if used)
-* data representation (vectorizing, word embeddings etc)? Or does this come in Band A. 
+* data representation (vectorizing, word embeddings, etc). Or does this come in Band A?
 
 ## Examples
 
