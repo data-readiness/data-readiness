@@ -10,7 +10,7 @@ is being collected, often without a question in mind. This is a change
 from classical statistics and science, where data is normally
 collected to answer a particular question. 
 
-Band A is about the usability of data. In the early days, one could
+Band A is about the utility of data. In the early days, one could
 argue that the traditional statistical pipeline contained only Band A.
 
 ## The Sense of Band A
