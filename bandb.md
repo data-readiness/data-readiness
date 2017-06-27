@@ -1,9 +1,9 @@
 ---
-title: Band B
+title: Grade B
 layout: band
 ---
 
-Band B is about the validity of the data. Checking the faithfulness and representation. It can include components of exploratory data analysis.
+Grade B is about the validity of the data. Checking the faithfulness and representation. It can include components of exploratory data analysis.
 
 ## What does it include?
 
@@ -13,7 +13,8 @@ Band B is about the validity of the data. Checking the faithfulness and represen
 * entity disambiguation, record linkage, duplicate detection
 * anomaly detection
 * sanity checks on the use of physical units (if used)
-* data representation (vectorizing, word embeddings etc)? Or does this come in Band A. 
+* data representation (vectorizing, word embeddings etc)? Or does this come in Grade A. 
+* Availability in a commonly usable format (e.g. json, RDF etc).
 
 ## Examples
 
@@ -21,4 +22,4 @@ Band B is about the validity of the data. Checking the faithfulness and represen
 * Was a [gene name accidentally converted to a date](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-80)?
 
 
-At the end of Band B, we are ready to define a candidate question, the context.
+For data that is Grade B, we are ready to define a candidate question, the context.
