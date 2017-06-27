@@ -1,5 +1,5 @@
 ---
-title: Grade B
+title: Band B
 layout: band
 ---
 
