@@ -5,9 +5,9 @@ layout: band
 
 Band C is about the accessibility of the data. One challenge in data science is 'hearsay data'. Hearsay data is data which someone heard is being stored, so they say it's being recorded.
 
-* Availability, is it actually being recorded?
-* privacy or legal constraints on the accessibility of the recorded data, have ethical constraints been alleviated?
-* Format: log books, PDF ...
+* availability: is it actually being recorded?
+* privacy or legal constraints on the accessibility of the recorded data: have ethical constraints been alleviated?
+* format: log books, PDF ...
 * limitations on access due to topology (e.g. it's distributed across a number of devices)
 
 
