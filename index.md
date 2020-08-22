@@ -66,7 +66,7 @@ available, so they say it is. This is where many projects start. They
 then provide a scale of readiness which is designed to assist decision
 makers and practitioners in assessing the project status, which
 resources need to be deployed, what time lines and costs are likely to
-be. Data readiness levels are a set of set of terms used to characterize the
+be. Data readiness levels are a set of terms used to characterize the
 readiness of data for deployment.
 
 Data Readiness levels allow managers and decision makers to understand project status, and where investment is needed without intimate familiarity with the data itself.
