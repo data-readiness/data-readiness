@@ -10,11 +10,17 @@ github_username:  data-readiness
 comments: true
 disqus:
   shortname: data-readiness
-github:
+
+ghub:
   edit: true
   repository: data-readiness.github.io
 
 permalink: "/:categories/:title.html"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
 
 defaults:
     scope:
